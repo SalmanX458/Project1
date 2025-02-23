@@ -1,0 +1,36 @@
+/* Apply styles to the body */
+body {
+	    font-family: Arial, sans-serif;
+	        text-align: center;
+		    background-color: #f4f4f4;
+		        margin: 0;
+			    padding: 0;
+		    }
+
+		    /* Center the content */
+		    .container {
+			        margin: 50px auto;
+				    padding: 20px;
+				        background: white;
+					    border-radius: 10px;
+					        width: 50%;
+						    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+					    }
+
+					    /* Style the button */
+					    button {
+						        padding: 10px 20px;
+							    font-size: 16px;
+							        border: none;
+								    background-color: #007BFF;
+								        color: white;
+									    cursor: pointer;
+									        border-radius: 5px;
+										    margin-top: 10px;
+									    }
+
+									    /* Hover effect for button */
+									    button:hover {
+										        background-color: #0056b3;
+										}
+
